@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[CV](https://your-github-account.github.io/rsschool-cv/cv)
+[CV](https://Ohiiko.github.io/rsschool-cv/cv)
